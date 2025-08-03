@@ -1,7 +1,1 @@
-git init IDS-Defense-2025
-cd IDS-Defense-2025
-# Add your extended tables, PRISMA flowchart, Dockerfile, etc.
-git add .
-git commit -m "Initial release: survey artifacts"
-git remote add origin https://github.com/EdgeXAI-Survey/IDS-Defense-2025
-git push -u origin main
+
